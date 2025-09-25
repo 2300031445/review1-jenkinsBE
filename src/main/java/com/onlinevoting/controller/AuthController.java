@@ -12,7 +12,7 @@ import java.util.Optional;
 
 @CrossOrigin("*")
 @RestController
-@RequestMapping("/")
+@RequestMapping("/api")
 public class AuthController {
 
     @Autowired
